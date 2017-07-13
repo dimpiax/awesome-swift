@@ -96,6 +96,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Natural Language Processing](#nlp)
   - [OCR](#ocr)
   - [PDF](#pdf)
+  - [Rapid Development](#rapid-development)
   - [Quality](#quality)
   - [SDK](#sdk)
   - [Security](#security)
@@ -850,6 +851,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+
+### Rapid Development
+* [swiftmon](https://github.com/dimpiax/swiftmon) - swiftmon restarts your swift application in case of any file change.
 
 ### Quality
 [back to top](#readme) 
